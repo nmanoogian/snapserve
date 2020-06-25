@@ -1,5 +1,4 @@
 const nodeWebcam = require('node-webcam');
-const fs = require('fs');
 const express = require('express');
 const player = require('play-sound')()
 const app = express();
