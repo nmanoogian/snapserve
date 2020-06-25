@@ -9,7 +9,7 @@ const options = {
     height: 720, 
     quality: 100,
     delay: 1,
-    saveShots: true,
+    saveShots: false,
     output: "jpeg",
     device: false,
     callbackReturn: "base64"
